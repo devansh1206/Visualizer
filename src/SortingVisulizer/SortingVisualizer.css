@@ -1,0 +1,17 @@
+.array-bar{
+    width: 5px;
+    background-color: rgb(19, 17, 18);
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.array-container{
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.nav{
+    height: auto;
+    background-color: aquamarine;
+}

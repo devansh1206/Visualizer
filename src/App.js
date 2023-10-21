@@ -19,4 +19,4 @@ function pathfinder(){
   )
 }
 
-export default pathfinder;
+export default SortingVisualizer;

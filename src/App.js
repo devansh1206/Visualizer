@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import SortingVisualizer from './SortingVisulizer/SortingVisualizer.jsx'
+import sv1 from './SortingVisulizer/sv1.jsx';
 import PathFinder from './PathFinder/PathFinder.jsx';
 
 function Sorting() {
   return (
     <div className="App">
-      <SortingVisualizer></SortingVisualizer>
+     <sv1></sv1>
     </div>
   );
 }
@@ -19,4 +20,4 @@ function pathfinder(){
   )
 }
 
-export default SortingVisualizer;
+export default sv1;

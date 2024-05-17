@@ -7,7 +7,7 @@ import PathFinder from './PathFinder/PathFinder.jsx';
 function Sorting() {
   return (
     <div className="App">
-     <sv1></sv1>
+     <sv1> </sv1>
     </div>
   );
 }
